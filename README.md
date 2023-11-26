@@ -241,3 +241,25 @@
 
 
 ![image](https://github.com/sangbinlee/deploy-nextjs/assets/4024414/1c2ed8ae-5fe6-4860-b766-15d9ec41abcb)
+
+
+
+
+
+
+
+
+#  참조 문서
+
+
+
+
+
+https://github.com/vercel/next.js/blob/canary/examples/with-docker-compose/README.md
+
+
+
+
+
+![image](https://github.com/sangbinlee/deploy-nextjs/assets/4024414/a79b8fe8-e37f-46de-8303-c4dd5955a05f)
+
