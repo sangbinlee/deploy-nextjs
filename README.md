@@ -287,5 +287,10 @@ https://github.com/vercel/next.js/blob/canary/examples/with-docker-compose/READM
 
 
 
-        ![image](https://github.com/sangbinlee/deploy-nextjs/assets/4024414/c4908646-e58d-4505-87d5-d5d33320831e)
+![image](https://github.com/sangbinlee/deploy-nextjs/assets/4024414/c4908646-e58d-4505-87d5-d5d33320831e)
+
+
+![image](https://github.com/sangbinlee/deploy-nextjs/assets/4024414/7460306a-49b6-455f-a84b-27b132bb9c84)
+
+
 
