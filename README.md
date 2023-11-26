@@ -270,6 +270,11 @@ https://github.com/vercel/next.js/blob/canary/examples/with-docker-compose/READM
 
 # I can run the process at the background using:
 
+
+참조 
+https://medium.com/idomongodb/how-to-npm-run-start-at-the-background-%EF%B8%8F-64ddda7c1f1
+
+
 (npm run start&)
 
     
