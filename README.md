@@ -238,3 +238,6 @@
     
      ✓ Ready in 408ms
 
+
+
+![image](https://github.com/sangbinlee/deploy-nextjs/assets/4024414/1c2ed8ae-5fe6-4860-b766-15d9ec41abcb)
