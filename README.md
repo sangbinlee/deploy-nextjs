@@ -263,3 +263,29 @@ https://github.com/vercel/next.js/blob/canary/examples/with-docker-compose/READM
 
 ![image](https://github.com/sangbinlee/deploy-nextjs/assets/4024414/a79b8fe8-e37f-46de-8303-c4dd5955a05f)
 
+
+
+
+
+
+# I can run the process at the background using:
+
+(npm run start&)
+
+    
+    root@ns1:/home/sangbinlee9/front-end/mini-do# (yarn start&)
+    yarn run v1.22.21
+    $ next start
+       ▲ Next.js 14.0.3
+       - Local:        http://localhost:3000
+    
+     ✓ Ready in 401ms
+    xxxxxxxxxxxxxxxx environmentVariables= F {
+      spa: [Function: bound safeParseAsync] AsyncFunction,
+      _def: {
+        shape: [Function: shape],
+
+
+
+        ![image](https://github.com/sangbinlee/deploy-nextjs/assets/4024414/c4908646-e58d-4505-87d5-d5d33320831e)
+
